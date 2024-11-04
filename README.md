@@ -5,6 +5,8 @@
 ## How to use
 
 Always run the ui file to properly start the program!
+Download the chromium zip by clicking on this link: https://download-chromium.appspot.com/dl/Win_x64?type=snapshots
+Unpack the "chrome-win" folder in the same folder as the python files are located.
 
 ### Downloading a single manga chapter
 
