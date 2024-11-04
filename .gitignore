@@ -1,0 +1,11 @@
+PDF/*
+!PDF/*.gitkeep
+
+Raw Images/*
+!Raw Images/*.gitkeep
+
+*.zip
+
+__pycache__/
+
+chrome-win/
